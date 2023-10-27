@@ -1,0 +1,3 @@
+git config --global user.name "Rafael Godoy"
+
+git config --global user.email "rafael.godoy@aluno.ifsp.edu.br"

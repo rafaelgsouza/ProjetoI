@@ -1,0 +1,19 @@
+<projetos>
+    <projeto nome="Produto X" numero="1" local="Santo André">
+        <trabalhador>
+            <cpf>841.851.126-45</cpf>
+            <sobrenome>Silva</sobrenome>
+            <horas>32,5</horas>
+        </trabalhador>
+        
+        <trabalhador>
+            <cpf>104.867.378-18</cpf>
+            <sobrenome>Souza</sobrenome>
+            <horas>20,0</horas>
+        </trabalhador>
+    </projeto>
+
+    <projeto>
+    </projeto>
+
+</projetos>
